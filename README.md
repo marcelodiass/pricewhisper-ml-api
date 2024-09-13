@@ -29,3 +29,10 @@ Exemplo de body:
     "comp_1": 89.9
 }
 ```
+
+Exemplo de resposta:
+```
+{
+    "resultado": "alto"
+}
+```
