@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-modelo = pickle.load(open('modelo.pk1', 'rb'))
+modelo = pickle.load(open('notebook/modelo.pk1', 'rb'))
 
 
 @app.route("/")
